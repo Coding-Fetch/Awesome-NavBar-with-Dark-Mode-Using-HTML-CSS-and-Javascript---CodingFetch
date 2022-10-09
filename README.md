@@ -1,5 +1,5 @@
 </br>
-</br>
+ <h3 align="center">Author: Talha Imran</h3>
 </br>
 <p align="center">
  <img src="https://user-images.githubusercontent.com/115228998/194714506-dcdc2aba-2e70-4dd7-ae54-ab81a44c7da6.png"/>
